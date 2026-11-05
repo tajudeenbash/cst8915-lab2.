@@ -7,7 +7,7 @@
 
 ## Demo Video
 
-Video link will be added after recording.
+[Watch my Lab 2 demonstration](https://youtu.be/hrTcSYCwXq4)
 
 ## Service Repositories
 
